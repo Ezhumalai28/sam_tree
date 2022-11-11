@@ -1,0 +1,11 @@
+ git add 
+ working directory 
+
+ staging area 
+ git commit 
+ git checkout
+
+ local rep
+ git pull
+ git push
+
