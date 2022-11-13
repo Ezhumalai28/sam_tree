@@ -6,3 +6,4 @@ welcome()
 
 print("Thank to Join ")
 
+print("@------$$$------@")
