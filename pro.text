@@ -5,7 +5,7 @@
  git commit 
  git checkout
 
- local rep
+ local re
  git pull
  git push
 
@@ -14,6 +14,7 @@ the chage the all user in the project
 1 sam
 2 raja 
 3 sakthi
+ 333dcf39a715b6877b8520eb63fbf129f061f98c
 4 jaya 
 5 suriya
 
